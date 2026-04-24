@@ -29,6 +29,7 @@
 
 - [커리큘럼 마스터 인덱스 — 전체 11권 구성](./curriculum/README.md)
 - [Volume 1 — 백엔드 엔지니어를 위한 AI 추론 입문](./curriculum/volume_01_backend_bridge.md)
+- [Volume 2 — 디퓨전 모델의 기술적 이해](./curriculum/volume_02_diffusion.md)
 
 ## 6단계 — 깊이 학습용 교과서
 
